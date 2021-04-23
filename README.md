@@ -1,2 +1,2 @@
 # devweb-practice-1
-Practica de Git
+Practica de Git - Clase 3
