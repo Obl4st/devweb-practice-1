@@ -1,2 +1,2 @@
 # devweb-practice-1
-Practicas
+Practica de Git
